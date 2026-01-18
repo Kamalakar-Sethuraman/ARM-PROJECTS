@@ -44,5 +44,4 @@ An IoT-based home automation system controlled via Bluetooth communication.
 
 ---
 
-## Folder Structure
 
